@@ -19,14 +19,16 @@ Atualmente estou aprofundando meus conhecimentos em C#, .NET, Python, desenvolvi
 - **QR Code Generator:** Projeto desenvolvido em Python para geração de QR Codes.
 - **Pydle:** Projeto em Python voltado à leitura e interpretação dos desafios diários do Pydle.
 - **Projetos acadêmicos:** Exercícios e projetos desenvolvidos durante a graduação utilizando diferentes conceitos de programação.
-
-## 📚 Atualmente estudando
+- 
+### 📚 Atualmente estudando
 
 - C# e .NET
 - Desenvolvimento de APIs REST
-- Python
+- Python e análise de dados
+- Estrutura de Dados
+- Banco de Dados
 - Git e GitHub
-
+  
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Zampier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-zampier-599a07282/)
