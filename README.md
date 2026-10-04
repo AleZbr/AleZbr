@@ -1,8 +1,8 @@
 # Olá, eu sou o Alexandre Zampier! 👋
 
-Sou estudante de Ciência da Computação, com interesse em desenvolvimento de software e tecnologia.
+Sou estudante de Ciência da Computação, com interesse em desenvolvimento de software, análise de dados e tecnologia.
 
-Atualmente estou aprofundando meus conhecimentos em C#, .NET, Python, desenvolvimento de APIs REST e Git/GitHub, desenvolvendo projetos acadêmicos e pessoais para colocar esses conhecimentos em prática.
+Atualmente estou aprofundando meus conhecimentos em C#, .NET, Python, desenvolvimento de APIs REST, análise de dados, Estrutura de Dados, Banco de Dados e Git/GitHub, desenvolvendo projetos acadêmicos e pessoais para colocar esses conhecimentos em prática.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -16,10 +16,11 @@ Atualmente estou aprofundando meus conhecimentos em C#, .NET, Python, desenvolvi
 ## 💻 Projetos e Estudos em Destaque
 
 - **Ecommerce API:** API desenvolvida em C# e .NET durante meus estudos de Desenvolvimento de Software.
+- **Análise de Dados de Saúde:** Projeto acadêmico em Python utilizando Pandas e Matplotlib para tratamento, análise e visualização de dados relacionados a AVC.
 - **QR Code Generator:** Projeto desenvolvido em Python para geração de QR Codes.
 - **Pydle:** Projeto em Python voltado à leitura e interpretação dos desafios diários do Pydle.
 - **Projetos acadêmicos:** Exercícios e projetos desenvolvidos durante a graduação utilizando diferentes conceitos de programação.
-- 
+
 ### 📚 Atualmente estudando
 
 - C# e .NET
@@ -28,7 +29,7 @@ Atualmente estou aprofundando meus conhecimentos em C#, .NET, Python, desenvolvi
 - Estrutura de Dados
 - Banco de Dados
 - Git e GitHub
-  
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Zampier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-zampier-599a07282/)
